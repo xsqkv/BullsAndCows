@@ -1,2 +1,2 @@
 # BullsAndCows
-Games Bulls And Cows running on Windows.
+Game Bulls And Cows running on Windows.
